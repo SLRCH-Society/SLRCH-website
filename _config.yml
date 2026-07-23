@@ -1,0 +1,10 @@
+title: SLRCH
+description: "Society for Light, Rhythms, and Circadian Health"
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages builds this automatically on push - no build step or
+# GitHub Actions workflow needed. Just edit the .md files and push.
