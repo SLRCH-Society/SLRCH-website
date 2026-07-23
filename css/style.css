@@ -1,0 +1,286 @@
+/* SLRCH — Society for Light, Rhythms, and Circadian Health
+   Design tokens: a light-cycle palette (dawn amber -> daylight teal -> night navy)
+   used as the site's signature gradient rule under every section header. */
+
+:root {
+  --navy: #1c2541;
+  --navy-soft: #2c3759;
+  --teal: #3e7c8c;
+  --amber: #e3a857;
+  --paper: #f5f6f8;
+  --paper-raised: #ffffff;
+  --ink: #1c2541;
+  --ink-soft: #565f78;
+  --line: #dfe3ea;
+
+  --font-display: "Source Serif 4", Georgia, serif;
+  --font-body: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --gradient-cycle: linear-gradient(90deg, var(--navy) 0%, var(--teal) 50%, var(--amber) 100%);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+a { color: var(--teal); }
+a:hover { color: var(--navy); }
+
+img { max-width: 100%; display: block; }
+
+.container {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ---- Header / nav ---- */
+
+.site-header {
+  background: var(--navy);
+  border-bottom: 4px solid transparent;
+  border-image: var(--gradient-cycle) 1;
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.site-header .logo {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+
+.site-header .logo span {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--amber);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 2px;
+}
+
+.site-nav { display: flex; gap: 22px; flex-wrap: wrap; }
+
+.site-nav a {
+  color: #cfd6e6;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.site-nav a:hover, .site-nav a.active { color: var(--amber); }
+
+/* ---- Hero ---- */
+
+.hero {
+  padding: 64px 0 48px;
+  border-bottom: 1px solid var(--line);
+}
+
+.eyebrow {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin: 0 0 10px;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-size: 2.6rem;
+  line-height: 1.1;
+  margin: 0 0 16px;
+  color: var(--navy);
+}
+
+h2 {
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  color: var(--navy);
+  margin: 0 0 14px;
+}
+
+h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--navy);
+  margin: 0 0 10px;
+}
+
+.lede {
+  font-size: 1.15rem;
+  color: var(--ink-soft);
+  max-width: 620px;
+}
+
+/* ---- Section rule: the signature gradient divider ---- */
+
+.section-rule {
+  height: 3px;
+  width: 64px;
+  background: var(--gradient-cycle);
+  border: none;
+  margin: 0 0 20px;
+}
+
+section { padding: 48px 0; }
+section + section { border-top: 1px solid var(--line); }
+
+/* ---- Cards ---- */
+
+.card {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 24px;
+}
+
+.card + .card { margin-top: 16px; }
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media (max-width: 720px) {
+  .grid-2 { grid-template-columns: 1fr; }
+  h1 { font-size: 2rem; }
+}
+
+/* ---- Buttons ---- */
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.btn-primary {
+  background: var(--amber);
+  color: var(--navy);
+}
+.btn-primary:hover { background: #d6963f; color: var(--navy); }
+
+.btn-secondary {
+  background: transparent;
+  color: var(--navy);
+  border: 1.5px solid var(--navy);
+}
+.btn-secondary:hover { background: var(--navy); color: #fff; }
+
+/* ---- Alert / notice banner ---- */
+
+.notice {
+  background: #fff7ea;
+  border: 1px solid var(--amber);
+  border-left: 4px solid var(--amber);
+  border-radius: 4px;
+  padding: 16px 20px;
+  font-size: 0.95rem;
+  margin-bottom: 28px;
+}
+
+.notice strong { color: var(--navy); }
+
+/* ---- Key dates list ---- */
+
+.dates-list { list-style: none; padding: 0; margin: 0; }
+.dates-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.98rem;
+}
+.dates-list li:last-child { border-bottom: none; }
+.dates-list .date { font-weight: 600; color: var(--navy); }
+
+/* ---- Membership tiers ---- */
+
+.tier {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 22px;
+  background: var(--paper-raised);
+  text-align: left;
+}
+.tier .price {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  color: var(--navy);
+  margin: 6px 0 12px;
+}
+
+/* ---- Markdown content wrapper ----
+   Collaborators just write `## Heading` in Markdown; this automatically
+   draws the signature gradient bar above it, so nobody has to remember
+   to add <hr class="section-rule"> by hand. */
+
+.content {
+  padding: 40px 0 60px;
+}
+
+.content h2 {
+  margin-top: 52px;
+}
+
+.content h2:first-child {
+  margin-top: 0;
+}
+
+.content h2::before {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 64px;
+  background: var(--gradient-cycle);
+  margin-bottom: 20px;
+}
+
+.content h3 {
+  margin-top: 28px;
+}
+
+.content > p,
+.content > ul,
+.content > ol {
+  max-width: 680px;
+}
+
+/* ---- Footer ---- */
+
+.site-footer {
+  background: var(--navy);
+  color: #cfd6e6;
+  padding: 36px 0;
+  margin-top: 48px;
+  font-size: 0.9rem;
+}
+.site-footer a { color: #fff; }
