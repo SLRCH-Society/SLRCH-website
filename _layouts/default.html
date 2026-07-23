@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+  {% if page.extra_head %}{{ page.extra_head }}{% endif %}
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="{{ '/' | relative_url }}">{{ site.title }}<span>Light · Rhythms · Circadian Health</span></a>
+      <nav class="site-nav">
+        {% for item in site.data.nav %}
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+    </div>
+  </section>
+
+  <div class="container content">
+    {{ content }}
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>{{ site.title }} — {{ site.description }}<br>
+      c/o JCC Congress Consultancy &amp; Events, The Netherlands<br>
+      Office: +31 (0)6 1667 1881 · <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a></p>
+    </div>
+  </footer>
+
+</body>
+</html>
