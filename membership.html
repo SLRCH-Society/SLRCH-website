@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Membership — SLRCH</title>
+  <meta name="description" content="Join SLRCH — membership tiers and secure payment via PayPal.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- PayPal SDK — loaded once per page, used by the hosted button(s) in the body below -->
+  <script src="https://www.paypal.com/sdk/js?client-id=BAA2hIzhLocCYLwUM-8VBSLeKxOXSv8TNPD3wXCtXlq4cwaXaiLHOK-1wCBeEjJ8I5fpVASW61lifOft7I&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="index.html">SLRCH<span>Light · Rhythms · Circadian Health</span></a>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="annual-meeting.html">Annual Meeting</a>
+        <a href="membership.html" class="active">Membership</a>
+        <a href="mailto:contact.slrch@gmail.com">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">Join SLRCH</p>
+      <h1>Membership</h1>
+      <p class="lede">Membership supports the society's mission and is required for early career awards and reduced meeting registration. Payments are processed securely through PayPal.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <hr class="section-rule">
+      <h2>Membership options</h2>
+      <div class="grid-2">
+
+        <div class="tier">
+          <h3>Regular</h3>
+          <p class="price">$175 / year</p>
+          <p style="font-size:0.95rem;color:var(--ink-soft);">For researchers and clinicians in the field.</p>
+          <div id="paypal-container-5ANQPRFTC6Q3E"></div>
+          <script>
+            paypal.HostedButtons({
+              hostedButtonId: "5ANQPRFTC6Q3E",
+            }).render("#paypal-container-5ANQPRFTC6Q3E");
+          </script>
+        </div>
+
+        <div class="tier">
+          <h3>Student / Early Career</h3>
+          <p class="price">$100 / year</p>
+          <p style="font-size:0.95rem;color:var(--ink-soft);">For students, trainees, and postdocs within 5 years of their degree.</p>
+          <div id="paypal-container-XX6D43W7NW64L"></div>
+          <script>
+            paypal.HostedButtons({
+              hostedButtonId: "XX6D43W7NW64L",
+            }).render("#paypal-container-XX6D43W7NW64L");
+          </script>
+        </div>
+
+        <div class="tier">
+          <h3>Retired</h3>
+          <p class="price">$125 / year</p>
+          <p style="font-size:0.95rem;color:var(--ink-soft);">For retired members of the society.</p>
+          <div id="paypal-container-TC7BSHFLGSBYY"></div>
+          <script>
+            paypal.HostedButtons({
+              hostedButtonId: "TC7BSHFLGSBYY",
+            }).render("#paypal-container-TC7BSHFLGSBYY");
+          </script>
+        </div>
+
+        <div class="tier">
+          <h3>Corporate</h3>
+          <p class="price">By arrangement</p>
+          <p style="font-size:0.95rem;color:var(--ink-soft);">For companies and organizations. Please contact us directly to arrange corporate membership.</p>
+          <p><a class="btn btn-secondary" href="mailto:contact.slrch@gmail.com">Contact us</a></p>
+        </div>
+
+        <div class="tier">
+          <h3>Other</h3>
+          <p class="price">By arrangement</p>
+          <p style="font-size:0.95rem;color:var(--ink-soft);">Honorary members or other special circumstances not covered above — please get in touch.</p>
+          <p><a class="btn btn-secondary" href="mailto:contact.slrch@gmail.com">Contact us</a></p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <hr class="section-rule">
+      <h2>How payment works</h2>
+      <p>Clicking "Pay with PayPal" opens a secure PayPal checkout window. You can pay by PayPal balance, bank account, or credit/debit card — a PayPal account is not required to pay by card.</p>
+      <p style="font-size:0.9rem;color:var(--ink-soft);">Questions about membership or payment? Contact <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.</p>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>SLRCH — Society for Light, Rhythms, and Circadian Health<br>
+      c/o JCC Congress Consultancy &amp; Events, The Netherlands<br>
+      Office: +31 (0)6 1667 1881 · <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a></p>
+    </div>
+  </footer>
+
+</body>
+</html>
