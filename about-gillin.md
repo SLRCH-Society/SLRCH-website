@@ -4,7 +4,7 @@ permalink: /j-christian-gillin/
 title: About J. Christian Gillin
 description: About J. Christian Gillin
 eyebrow: About J. Christian Gillin
-lede: An international scientific non-profit devoted to research on light, circadian rhythms, and their role in health.
+lede: Our early career investigator award is named in honor of J. Christian Gillin.
 ---
 
 ## J. Christian Gillin
