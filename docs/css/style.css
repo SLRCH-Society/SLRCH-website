@@ -278,7 +278,7 @@ section + section { border-top: 1px solid var(--line); }
    to add <hr class="section-rule"> by hand. */
 
 .content {
-  padding: 40px 0 60px;
+  padding: 40px 20px 60px;
 }
 
 .content h2 {
