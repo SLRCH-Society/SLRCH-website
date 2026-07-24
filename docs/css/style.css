@@ -195,6 +195,17 @@ section + section { border-top: 1px solid var(--line); }
 
 .card + .card { margin-top: 16px; }
 
+.card-photo {
+  width: 140px;
+  height: 210px; /* 2:3 ratio (width:height) matching your photos */
+  border-radius: 6px;
+  object-fit: contain; /* resizes to fit the box, never crops */
+  background: var(--paper); /* shows if a photo doesn't exactly match 2:3 */
+  display: block;
+  margin-bottom: 16px;
+  border: 1px solid var(--line);
+}
+
 .grid-2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
