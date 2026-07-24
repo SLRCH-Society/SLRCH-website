@@ -9,7 +9,7 @@ lede: An international scientific non-profit devoted to research on light, circa
 
 ## Our mission
 
-SLRCH is an international scientific non-profit organization devoted to promoting research and knowledge about the effects of light on the body, and the chronobiology of psychiatric and other medical conditions. Founded in 1988 as the Society for Light Treatment and Biological Rhythms, the society brings together scientists, clinicians, and other interested professionals from a range of disciplines to exchange ideas on the science and clinical application of chronotherapy.
+The Society for Light, Rhythms, and Circadian Health (SLRCH) is an international scientific non-profit organization devoted to promoting research and knowledge about the effects of light on the body, and the chronobiology of psychiatric and other medical conditions. Founded in 1988 as the Society for Light Treatment and Biological Rhythms, the society brings together scientists, clinicians, and other interested professionals from a range of disciplines to exchange ideas on the science and clinical application of chronotherapy.
 
 ## Why this field matters
 
@@ -17,6 +17,6 @@ Biological timing systems track daily and seasonal environmental cycles, and the
 
 ## From research to treatment
 
-Much of the progress in chronotherapeutics — light therapy, sleep-time stabilization, sleep-phase advance and wake therapy, melatonin and dark therapy — has come from SLRCH members and their collaborators. The society exists to help move that molecular chronobiology research into real clinical practice, improving treatment across a wide range of psychiatric conditions.
+Much of the progress in chronotherapeutics (e.g., light therapy, sleep-time stabilization, sleep-phase advance and wake therapy, melatonin and dark therapy) has come from SLRCH members and their collaborators. The society exists to help move that molecular chronobiology research into real clinical practice, improving treatment across a wide range of psychiatric conditions.
 
 <p><a class="btn btn-secondary" href="/board/">Meet the board</a></p>
