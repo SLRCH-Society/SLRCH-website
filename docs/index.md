@@ -3,7 +3,7 @@ layout: default
 title: Home
 description: The Society for Light, Rhythms, and Circadian Health (SLRCH) — annual meeting, membership, and research on light and circadian biology.
 eyebrow: 37th Annual Meeting · Milan
-lede: Registration and abstract submission are now open. SLRCH brings together researchers and clinicians working on light, circadian rhythms, and their role in health and disease.
+lede: Registration is now open! SLRCH brings together researchers and clinicians working on light, circadian rhythms, and their role in health and disease.
 ---
 
 <div class="notice">
@@ -22,6 +22,6 @@ The Society for Light, Rhythms, and Circadian Health (formerly the Society for L
 ## Key dates
 
 <ul class="dates-list">
-  <li><span>Abstract submission deadline</span><span class="date">21 June 2026</span></li>
-  <li><span>Early bird registration deadline</span><span class="date">30 June 2026</span></li>
+  <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
+  <li><span>Early bird registration deadline</span><span class="date">31 July 2026</span></li>
 </ul>

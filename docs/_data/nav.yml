@@ -27,7 +27,13 @@
 - title: Curriculum
   url: /curriculum/
 - title: Awards
-  url: /awards/
+  children:
+    - title: J. Christian Gillin ECI Award
+      url: /awards/
+    - title: J. Christian Gillin
+      url: /about-gillin/
+    - title: Past Awardees
+      url: /past-awardees/
 - title: News
   url: /news/
 - title: Archives
