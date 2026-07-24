@@ -1,6 +1,6 @@
 {
   "name": "Jekyll Dev Container",
-  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm",
 
   // Forward both the Jekyll server and the LiveReload WebSocket port
   "forwardPorts": [4000, 35729],
