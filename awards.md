@@ -3,12 +3,12 @@ layout: default
 title: Awards
 description: The J. Christian Gillin Early Career Investigator Award — eligibility, submission, and review process.
 eyebrow: Recognition
-lede: Recognizing outstanding early-career research in light, rhythms, and circadian health, presented each year at the SLRCH annual meeting.
+lede: The J. Christian Gillin Early Career Investigator Award recognizes outstanding early career research in light, rhythms, and circadian health, presented each year at the SLRCH annual meeting.
 ---
 
 ## Eligibility
 
-Open to MD, MSc, or PhD students, and early-career postdocs within five years of receiving their degree. Reviewers value originality and independence of thought over seniority.
+MD, MSc, or PhD students, or early-career researchers who have not yet secured an independent academic position (e.g., prior to obtaining a role such as assistant professor, lecturer, or equivalent). Originality and independence of thought are valued. 
 
 ## Submission options
 
@@ -19,13 +19,18 @@ Open to MD, MSc, or PhD students, and early-career postdocs within five years of
   </div>
   <div class="card">
     <h3>Unpublished preliminary data</h3>
-    <p>Results organized as a manuscript of 5–10 pages (11–12pt font), including figures and references, plus a letter of support from a senior investigator or mentor describing the applicant's contribution.</p>
+    <p>Results organized as a manuscript of 5–10 pages (11–12pt font), including figures and references.</p>
   </div>
 </div>
 
+Plus: 
+- Short CV (max 3 pages)
+- Applicant letter of motivation
+- Letter of support from the senior investigator/mentor indicating the candidate's contribution to the work & the field
+
 ## Review & prize
 
-Submissions are reviewed by a scientific committee made up of SLRCH members and the previous year's award recipient. The winner is recognized at the annual meeting, presents their work at the award ceremony, and receives a $600 prize, with meeting registration costs reimbursed where applicable.
+Submissions are reviewed by a scientific committee made up of SLRCH members. The winner is recognized at the annual meeting, presents their work at the award ceremony, and receives a $750 prize, with meeting registration costs reimbursed where applicable.
 
 ## Before you apply
 
