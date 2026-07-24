@@ -9,8 +9,8 @@ lede: Registration and abstract submission are open now. Submissions are managed
 ## Key dates
 
 <ul class="dates-list">
-  <li><span>Abstract submission deadline</span><span class="date">21 June 2026</span></li>
-  <li><span>Early bird registration deadline</span><span class="date">30 June 2026</span></li>
+  <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
+  <li><span>Early bird registration deadline</span><span class="date">31 July 2026</span></li>
 </ul>
 
 *Note: an earlier version of this page briefly displayed a different submission date. We apologise for any confusion caused.*
@@ -26,7 +26,7 @@ lede: Registration and abstract submission are open now. Submissions are managed
 
 ## Registration
 
-Meeting registration is required for all presenting authors. Early bird pricing is available through 30 June 2026.
+Meeting registration is required for all presenting authors. Early bird pricing is available through 31 July 2026.
 
 <p><a class="btn btn-secondary" href="https://slrch2026.exordo.com/login">Register for the meeting</a></p>
 
