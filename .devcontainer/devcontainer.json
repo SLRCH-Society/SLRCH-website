@@ -24,7 +24,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "rebornix.Ruby",
+        "shopify.ruby-lsp",
         "DavidAnson.vscode-markdownlint"
       ]
     }
