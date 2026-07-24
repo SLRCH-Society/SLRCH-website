@@ -7,7 +7,19 @@
     - title: The Board
       url: /board/
 - title: Annual Meeting
-  url: /annual-meeting/
+  children:
+    - title: Meeting Overview
+      url: /annual-meeting/
+    - title: Scientific Program
+      url: /annual-meeting/program/
+    - title: Congress Venue
+      url: /annual-meeting/venue/
+    - title: Accommodation
+      url: /annual-meeting/accommodation/
+    - title: Sponsor Package
+      url: /annual-meeting/sponsor-package/
+    - title: Code of Conduct
+      url: /annual-meeting/code-of-conduct/
 - title: Membership
   url: /membership/
 - title: Curriculum
