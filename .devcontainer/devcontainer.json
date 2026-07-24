@@ -9,7 +9,7 @@
   "portsAttributes": {
     "4000": {
       "label": "Jekyll Web Server",
-      "onAutoForward": "openPreview"
+      "onAutoForward": "openBrowserOnce"
     },
     "35729": {
       "label": "LiveReload Server",
@@ -21,7 +21,7 @@
   "postCreateCommand": "sudo apt-get update && sudo apt-get install -y git-lfs && git lfs install && cd docs && bundle install",
 
   // Start the Jekyll site automatically whenever the container starts
-  "postStartCommand": "cd docs && bundle exec jekyll serve --host 0.0.0.0 --livereload",
+  "postStartCommand": "cd docs && bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling",
 
   // Useful VS Code extensions for Jekyll/Markdown editing
   "customizations": {
