@@ -339,7 +339,7 @@ section + section { border-top: 1px solid var(--line); }
 }
 .site-footer a { color: #fff; }
 
-/* ---- Footer ---- */
+/* ---- Galleries ---- */
 
 .venue-gallery {
   display: grid;
@@ -354,4 +354,15 @@ section + section { border-top: 1px solid var(--line); }
   border-radius: 8px;
   object-fit: cover;
   box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
+
+.president-gallery figure {
+  margin: 0;
+}
+
+.president-gallery figcaption {
+  text-align: center;
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  line-height: 1.4;
 }

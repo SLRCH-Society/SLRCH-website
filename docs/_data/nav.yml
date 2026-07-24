@@ -6,6 +6,8 @@
       url: /about/
     - title: The Board
       url: /board/
+    - title: Past Presidents
+      url: /past-presidents/
 - title: Annual Meeting
   children:
     - title: Meeting Overview
