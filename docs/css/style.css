@@ -338,3 +338,20 @@ section + section { border-top: 1px solid var(--line); }
   font-size: 0.9rem;
 }
 .site-footer a { color: #fff; }
+
+/* ---- Footer ---- */
+
+.venue-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.venue-gallery img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
