@@ -7,8 +7,6 @@ eyebrow: About Us
 lede: Recognizing the leadership and service of the Society's past presidents.
 ---
 
-## Past Presidents
-
 We gratefully acknowledge the individuals who have served as President and helped shape the Society through their leadership and dedication.
 
 <div class="president-gallery">
