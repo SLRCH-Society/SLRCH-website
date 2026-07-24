@@ -30,7 +30,7 @@
   children:
     - title: J. Christian Gillin ECI Award
       url: /awards/
-    - title: J. Christian Gillin
+    - title: About J. Christian Gillin
       url: /about-gillin/
     - title: Past Awardees
       url: /past-awardees/
@@ -38,8 +38,8 @@
   url: /news/
 - title: Archives
   children:
-    - title: Abstract Booklets
-      url: /archives/abstracts/
+    - title: Previous Meetings
+      url: /archives-meetings/
     - title: News Archive
       url: /archives/news/
 - title: Sponsors
