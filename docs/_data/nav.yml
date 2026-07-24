@@ -40,6 +40,8 @@
   children:
     - title: Previous Meetings
       url: /archives-meetings/
+    - title: 2021 Meeting Recordings
+      url: /online-recordings/
     - title: News Archive
       url: /archives/news/
 - title: Sponsors
