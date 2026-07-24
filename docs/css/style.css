@@ -462,3 +462,33 @@ section + section { border-top: 1px solid var(--line); }
     grid-template-columns: 1fr;
   }
 }
+
+/* ---- Sponsor Logos ---- */
+
+.sponsor-logo {
+  max-width: 180px;
+  max-height: 80px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 0.75rem 0;
+}
+
+.sponsor-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.sponsor-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+@media (max-width: 600px) {
+  .sponsor-card {
+    display: block;
+  }
+}
