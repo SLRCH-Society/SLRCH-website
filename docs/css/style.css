@@ -99,13 +99,16 @@ img { max-width: 100%; display: block; }
   position: absolute;
   top: 100%;
   left: 0;
-  margin-top: 14px;
+  padding-top: 14px; /* keeps the visual gap, but as part of a hoverable box */
+  z-index: 30;
+}
+
+.nav-item .dropdown-inner {
   background: var(--navy-soft);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 6px;
   min-width: 190px;
   padding: 6px 0;
-  z-index: 30;
 }
 
 .nav-item:hover .dropdown,

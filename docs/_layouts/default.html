@@ -21,9 +21,11 @@
             <div class="nav-item">
               <a href="{{ item.children.first.url | relative_url }}"{% for child in item.children %}{% if page.url == child.url %} class="active"{% endif %}{% endfor %}>{{ item.title }}</a>
               <div class="dropdown">
-                {% for child in item.children %}
-                  <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} class="active"{% endif %}>{{ child.title }}</a>
-                {% endfor %}
+                <div class="dropdown-inner">
+                  {% for child in item.children %}
+                    <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} class="active"{% endif %}>{{ child.title }}</a>
+                  {% endfor %}
+                </div>
               </div>
             </div>
           {% else %}
@@ -44,7 +46,7 @@
     </div>
   </section>
 
-  <div class="container content">
+  <div class="container content" style="">
     {{ content }}
   </div>
 
