@@ -14,96 +14,153 @@ We gratefully acknowledge the individuals who have served as President and helpe
 <div class="president-gallery">
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2022-2024.jpg' | relative_url }}" alt="Christian Cajochen">
-    <figcaption>Christian Cajochen, PhD<br><small>President, 2022-2024</small></figcaption>
+    <figcaption>
+    <strong>Christian Cajochen, PhD</strong><br>
+    <small>2022-2024</small>
+    </figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/images/past-presidents/PP-2020-2020.jpg' | relative_url }}" alt="Marijke Gordijn">
-    <figcaption>Marijke Gordijn, PhD<br><small>President, 2020-2022</small></figcaption>
+    <img src="{{ '/assets/images/past-presidents/PP-2020-2022.jpg' | relative_url }}" alt="Marijke Gordijn">
+    <figcaption>
+    <strong>Marijke Gordijn, PhD</strong><br>
+    <small>2020-2022</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2018-2020.jpg' | relative_url }}" alt="Dorothy Sit">
-    <figcaption>Dorothy Sit, MD<br><small>President, 2018-2020</small></figcaption>
+    <figcaption>
+    <strong>Dorothy Sit, MD</strong><br>
+    <small>2018-2020</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2016-2018.jpg' | relative_url }}" alt="Mirjam Munch">
-    <figcaption>Mirjam Munch, PhD<br><small>President, 2016-2018</small></figcaption>
+    <figcaption>
+    <strong>Mirjam Munch, PhD</strong><br>
+    <small>2016-2018</small>
+    </figcaption>
   </figure>
 
    <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2014-2016.jpg' | relative_url }}" alt="Klaus Martiny">
-    <figcaption>Klaus Martiny, MD PhD<br><small>President, 2014-2016</small></figcaption>
+    <figcaption>
+    <strong>Klaus Martiny, MD PhD</strong><br>
+    <small>2014-2016</small>
+    </figcaption>
   </figure>
 
  <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2012-2014.jpg' | relative_url }}" alt="Matthaeus Willeit">
-    <figcaption>Matthaeus Willeit, MD<br><small>President, 2012-2014</small></figcaption>
+    <figcaption>
+    <strong>Matthaeus Willeit, MD</strong><br>
+    <small>2012-2014</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2010-2012.jpg' | relative_url }}" alt="Marc Hebert">
-    <figcaption>Marc Hebert, PhD<br><small>President, 2010-2012</small></figcaption>
+    <figcaption>
+    <strong>Marc Hebert, PhD</strong><br>
+    <small>2010-2012</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2008-2010.jpg' | relative_url }}" alt="Namni Goel">
-    <figcaption>Namni Goel, PhD<br><small>President, 2008-2010</small></figcaption>
+    <figcaption>
+    <strong>Namni Goel, PhD</strong><br>
+    <small>2008-2010</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2006-2008.jpg' | relative_url }}" alt="Robert Levitan">
-    <figcaption>Robert Levitan, MD<br><small>President, 2006-2008</small></figcaption>
+    <figcaption>
+    <strong>Robert Levitan, MD</strong><br>
+    <small>2006-2008</small>
+    </figcaption>
   </figure>
 
    <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2004-2006.jpg' | relative_url }}" alt="Michael Young">
-    <figcaption>Michael Young, PhD<br><small>President, 2004-2006</small></figcaption>
+    <figcaption>
+    <strong>Michael Young, PhD</strong><br>
+    <small>2004-2006</small>
+    </figcaption>
   </figure>
 
  <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2002-2004.jpg' | relative_url }}" alt="Sonia Ancoli-Israel">
-    <figcaption>Sonia Ancoli-Israel, PhD<br><small>President, 2002-2004</small></figcaption>
+    <figcaption>
+    <strong>Sonia Ancoli-Israel, PhD</strong><br>
+    <small>2002-2004</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2000-2002.jpg' | relative_url }}" alt="Anthony Levitt">
-    <figcaption>Anthony Levitt, MD<br><small>President, 2000-2002</small></figcaption>
+    <figcaption>
+    <strong>Anthony Levitt, MD</strong><br>
+    <small>2000-2002</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1998-2000.jpg' | relative_url }}" alt="Dan Oren">
-    <figcaption>Dan Oren, MD<br><small>President, 1998-2000</small></figcaption>
+    <figcaption>
+    <strong>Dan Oren, MD</strong><br>
+    <small>1998-2000</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1996-1998.jpg' | relative_url }}" alt="Raymond Lam">
-    <figcaption>Raymond Lam, MD<br><small>President, 1996-1998</small></figcaption>
+    <figcaption>
+    <strong>Raymond Lam, MD</strong><br>
+    <small>1996-1998</small>
+    </figcaption>
   </figure>
 
    <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1995-1996.jpg' | relative_url }}" alt="J. Christian Gillin">
-    <figcaption>J. Christian Gillin, MD<br><small>President, 1995-1996</small></figcaption>
+    <figcaption>
+    <strong>J. Christian Gillin, MD</strong><br>
+    <small>1995-1996</small>
+    </figcaption>
   </figure>
 
  <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1993-1995.jpg' | relative_url }}" alt="Anna Wirz-Justice">
-    <figcaption>Anna Wirz-Justice, PhD<br><small>President, 1993-1995</small></figcaption>
+    <figcaption>
+    <strong>Anna Wirz-Justice, PhD</strong><br>
+    <small>1993-1995</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1991-1993.jpg' | relative_url }}" alt="Michael Terman">
-    <figcaption>Michael Terman, PhD<br><small>President, 1991-1993</small></figcaption>
+    <figcaption>
+    <strong>Michael Terman, PhD</strong><br>
+    <small>1991-1993</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1990-1991.jpg' | relative_url }}" alt="Norman Rosenthal">
-    <figcaption>Norman Rosenthal, MD<br><small>President, 1990-1991</small></figcaption>
+    <figcaption>
+    <strong>Norman Rosenthal, MD</strong><br>
+    <small>1990-1991</small>
+    </figcaption>
   </figure>
 
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-1989-1990.jpg' | relative_url }}" alt="Alfred Lewy">
-    <figcaption>Alfred Lewy, MD<br><small>President, 1989-1990</small></figcaption>
+    <figcaption>
+    <strong>Alfred Lewy, MD</strong><br>
+    <small>1989-1990</small>
+    </figcaption>
   </figure>
 </div>

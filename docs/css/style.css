@@ -356,8 +356,23 @@ section + section { border-top: 1px solid var(--line); }
   box-shadow: 0 2px 8px rgba(0,0,0,.12);
 }
 
+.president-gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
 .president-gallery figure {
   margin: 0;
+}
+
+.president-gallery img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
 }
 
 .president-gallery figcaption {
@@ -365,4 +380,25 @@ section + section { border-top: 1px solid var(--line); }
   margin-top: 0.75rem;
   font-size: 0.95rem;
   line-height: 1.4;
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .president-gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Small tablet */
+@media (max-width: 650px) {
+  .president-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Phone */
+@media (max-width: 420px) {
+  .president-gallery {
+    grid-template-columns: 1fr;
+  }
 }
