@@ -17,19 +17,19 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
 <div class="grid-2">
   <div class="tier">
     <h3>Silver</h3>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">Our top sponsorship tier, with the most visible recognition at the annual meeting and across our materials.</p>
+    <p style="font-size:0.95rem;color:var(--ink-soft);">Lumie</p>
   </div>
   <div class="tier">
     <h3>Bronze</h3>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">Strong visibility and recognition as a supporter of the society's work.</p>
+    <p style="font-size:0.95rem;color:var(--ink-soft);">Ayo</p>
   </div>
   <div class="tier">
     <h3>Friend</h3>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">For individuals and organizations who want to support SLRCH at a smaller scale.</p>
+    <p style="font-size:0.95rem;color:var(--ink-soft);">Chrono@Work, Clocks & Sleep, Neuraxpharm, Neurocare, Novolytix, Oculox</p>
   </div>
   <div class="tier">
     <h3>Other</h3>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">In-kind support or other arrangements — get in touch to discuss what fits best.</p>
+    <p style="font-size:0.95rem;color:var(--ink-soft);">npj Biological Timing and Sleep, Telelumen</p>
   </div>
 </div>
 

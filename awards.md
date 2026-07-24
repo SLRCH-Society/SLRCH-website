@@ -36,6 +36,8 @@ Submissions are reviewed by a scientific committee made up of SLRCH members. The
 
 Current SLRCH membership isn't required to submit an application, but applicants must become members before the meeting. You'll also need to register for the meeting and submit a conference abstract.
 
+Submit your abstract via Exordo to apply for the 2026 Award. Deadline: 31 May 2026
+
 <p>
   <a class="btn btn-primary" href="/membership/">Become a member</a>
   <a class="btn btn-secondary" href="/annual-meeting/" style="margin-left:12px;">Meeting &amp; abstract submission</a>
