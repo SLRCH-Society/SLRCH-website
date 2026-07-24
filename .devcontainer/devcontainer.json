@@ -1,6 +1,6 @@
 {
   "name": "Jekyll Dev Container",
-  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm",
 
   // Forward both the Jekyll server and the LiveReload WebSocket port
   "forwardPorts": [4000, 35729],
@@ -9,7 +9,7 @@
   "portsAttributes": {
     "4000": {
       "label": "Jekyll Web Server",
-      "onAutoForward": "openPreview"
+      "onAutoForward": "openBrowserOnce"
     },
     "35729": {
       "label": "LiveReload Server",
@@ -17,14 +17,17 @@
     }
   },
 
-  // Install dependencies automatically after container creation
-  "postCreateCommand": "bundle install",
+  // Install dependencies and Git LFS during container creation
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y git-lfs && git lfs install && cd docs && bundle install",
+
+  // Start the Jekyll site automatically whenever the container starts
+  "postStartCommand": "cd docs && bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling",
 
   // Useful VS Code extensions for Jekyll/Markdown editing
   "customizations": {
     "vscode": {
       "extensions": [
-        "rebornix.Ruby",
+        "shopify.ruby-lsp",
         "DavidAnson.vscode-markdownlint"
       ]
     }
