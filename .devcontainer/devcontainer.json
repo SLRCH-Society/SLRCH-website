@@ -1,0 +1,34 @@
+{
+  "name": "Jekyll Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+
+  // Forward both the Jekyll server and the LiveReload WebSocket port
+  "forwardPorts": [4000, 35729],
+
+  // Port attributes to automatically open port 4000 in browser
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Web Server",
+      "onAutoForward": "openPreview"
+    },
+    "35729": {
+      "label": "LiveReload Server",
+      "onAutoForward": "silent"
+    }
+  },
+
+  // Install dependencies automatically after container creation
+  "postCreateCommand": "bundle install",
+
+  // Useful VS Code extensions for Jekyll/Markdown editing
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rebornix.Ruby",
+        "DavidAnson.vscode-markdownlint"
+      ]
+    }
+  },
+
+  "remoteUser": "vscode"
+}
