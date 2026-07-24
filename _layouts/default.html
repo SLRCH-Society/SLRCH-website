@@ -17,7 +17,20 @@
       <a class="logo" href="{{ '/' | relative_url }}">{{ site.title }}<span>Light · Rhythms · Circadian Health</span></a>
       <nav class="site-nav">
         {% for item in site.data.nav %}
-          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+          {% if item.children %}
+            <div class="nav-item">
+              <a href="{{ item.children.first.url | relative_url }}"{% for child in item.children %}{% if page.url == child.url %} class="active"{% endif %}{% endfor %}>{{ item.title }}</a>
+              <div class="dropdown">
+                {% for child in item.children %}
+                  <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} class="active"{% endif %}>{{ child.title }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          {% else %}
+            <div class="nav-item">
+              <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+            </div>
+          {% endif %}
         {% endfor %}
       </nav>
     </div>

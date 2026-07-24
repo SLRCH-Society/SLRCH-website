@@ -83,6 +83,8 @@ img { max-width: 100%; display: block; }
 
 .site-nav { display: flex; gap: 22px; flex-wrap: wrap; }
 
+.nav-item { position: relative; }
+
 .site-nav a {
   color: #cfd6e6;
   text-decoration: none;
@@ -91,6 +93,36 @@ img { max-width: 100%; display: block; }
 }
 
 .site-nav a:hover, .site-nav a.active { color: var(--amber); }
+
+.nav-item .dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 14px;
+  background: var(--navy-soft);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  min-width: 190px;
+  padding: 6px 0;
+  z-index: 30;
+}
+
+.nav-item:hover .dropdown,
+.nav-item:focus-within .dropdown {
+  display: block;
+}
+
+.nav-item .dropdown a {
+  display: block;
+  padding: 9px 18px;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.nav-item .dropdown a:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
 
 /* ---- Hero ---- */
 

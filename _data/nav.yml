@@ -1,5 +1,11 @@
 - title: Home
   url: /
+- title: About Us
+  children:
+    - title: About SLRCH
+      url: /about/
+    - title: The Board
+      url: /board/
 - title: Annual Meeting
   url: /annual-meeting/
 - title: Membership
@@ -10,6 +16,12 @@
   url: /awards/
 - title: News
   url: /news/
+- title: Archives
+  children:
+    - title: Abstract Booklets
+      url: /archives/abstracts/
+    - title: News Archive
+      url: /archives/news/
 - title: Sponsors
   url: /sponsors/
 - title: Contact

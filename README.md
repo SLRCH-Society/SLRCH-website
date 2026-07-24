@@ -32,15 +32,28 @@ needs to change.
 
 ## Adding a page to the menu
 
-Add one entry to `_data/nav.yml`:
+For a plain top-level link, add one entry to `_data/nav.yml`:
 
 ```yaml
 - title: Your Page
   url: /your-page/
 ```
 
-Then create `your-page.md` in the repo root with the same front-matter
-pattern as the other pages.
+For a submenu (like "About Us" or "Archives"), use `children` instead of `url`:
+
+```yaml
+- title: About Us
+  children:
+    - title: About SLRCH
+      url: /about/
+    - title: The Board
+      url: /board/
+```
+
+Either way, then create the matching `.md` file in the repo root with the
+same front-matter pattern as the other pages. If you want the file's URL
+to differ from its filename, add a `permalink:` line to its front matter,
+e.g. `permalink: /archives/abstracts/` on a file named `archives-abstracts.md`.
 
 ## Previewing locally (optional)
 
