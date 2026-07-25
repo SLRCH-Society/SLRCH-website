@@ -16,7 +16,7 @@ lede: The volunteers who guide the society's direction, research priorities, and
 
 <div class="card"><img class="card-photo" src="/assets/images/board/Renske.jpeg" alt="Dr. Renske Lok">
   <h3>Renske Lok, Vice President</h3>
-  <p>Dr. Renske Lok is an Assistant Professor of Integrative Phsyiology at the University of Colorado Boulder. She studied Medical Biology and obtained her PhD from the University of Groningen, Department of Chronobiology, in which she investigated effects of light on human alertness. This was followed by a postdoctoral fellowship at Stanford University, where her research interests included the effects of light on psychological and physical performance, thermoregulation and sleep. Her lab focuses on designing personalized, scalable interventions grounded in sleep and circadian science to enhance daily performance, reduce disease risk, and promote healthy aging.</p>
+  <p>Dr. Renske Lok is an Assistant Professor of Integrative Physiology at the University of Colorado Boulder. She studied Medical Biology and obtained her PhD from the University of Groningen, Department of Chronobiology, in which she investigated effects of light on human alertness. This was followed by a postdoctoral fellowship at Stanford University, where her research interests included the effects of light on psychological and physical performance, thermoregulation and sleep. Her lab focuses on designing personalized, scalable interventions grounded in sleep and circadian science to enhance daily performance, reduce disease risk, and promote healthy aging.</p>
 </div>
 
 ## Board Members
