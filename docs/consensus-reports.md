@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /archives-consensus/
+permalink: /consensus/
 title: Consensus Reports
 description: Archives of past SLRCH annual meeting programs.
 eyebrow: Archives
