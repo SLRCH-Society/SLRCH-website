@@ -3,7 +3,7 @@ layout: default
 permalink: /archives/news/
 title: News Archive
 description: Older SLRCH news and announcements.
-eyebrow: Archives
+eyebrow: Archive
 lede: Past announcements from the society, kept here once they're no longer current on the main News page.
 ---
 

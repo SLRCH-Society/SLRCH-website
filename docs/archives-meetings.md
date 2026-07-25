@@ -3,7 +3,7 @@ layout: default
 permalink: /archives-meetings/
 title: Pevious Meetings
 description: Archives of past SLRCH annual meeting programs.
-eyebrow: Archives
+eyebrow: Archive
 lede: SLRCH has hosted an annual meeting for over 30 years, held across Europe, Canada, and the United States.
 ---
 
