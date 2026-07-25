@@ -7,7 +7,6 @@ eyebrow: Archive
 lede: Webinars from SLRCH researchers
 ---
 
-## Wednesday:
 [Effects of light on human sleep, circadian rhythms and mental health pt.1 – Mirjam Munch](https://www.youtube.com/watch?v=_PxuN_peWWk&feature=youtu.be)
 
 [Effects of light on human sleep, circadian rhythms and mental health pt.2 – Katharina Wulff](https://www.youtube.com/watch?v=Mt2qZcWdc98&feature=youtu.be)
