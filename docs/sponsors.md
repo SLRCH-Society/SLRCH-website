@@ -46,7 +46,7 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
 
     <div class="sponsor-logos">
       <img src="{{ '/assets/images/sponsors/Logo-npjBTS.jpg' | relative_url }}" alt="npj Biological Timing and Sleep logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-Telelumen.jpeg' | relative_url }}" alt="Telelumen logo" class="sponsor-logo">
+      <img src="{{ '/assets/images/sponsors/Logo-Telelumen.png' | relative_url }}" alt="Telelumen logo" class="sponsor-logo">
     </div>
 
   </div>
