@@ -3,7 +3,7 @@ layout: default
 title: Curriculum
 description: The Curriculum Program in Chronotherapy and Chronomedicine (CPCC) — an online certificate program from SLRCH.
 eyebrow: Education
-lede: CPCC is an online certificate program run by SLRCH in collaboration with the Center for Environmental Therapeutics (CET).
+lede: The Curriculum Program in Chronotherapy and Chronomedicine (CPCC) is an online certificate program run by SLRCH in collaboration with the Center for Environmental Therapeutics (CET).
 ---
 
 ## About the program

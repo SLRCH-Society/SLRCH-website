@@ -15,7 +15,7 @@ extra_head: |
   <div class="tier">
     <h3>Regular</h3>
     <p class="price">$175 / year</p>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">For researchers and clinicians in the field.</p>
+    <p class="description" style="font-size:0.95rem;color:var(--ink-soft);">For researchers and clinicians in the field.</p>
     <div id="paypal-container-5ANQPRFTC6Q3E"></div>
     <script>
       paypal.HostedButtons({
@@ -27,7 +27,7 @@ extra_head: |
   <div class="tier">
     <h3>Student / Early Career</h3>
     <p class="price">$100 / year</p>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">For students, trainees, and postdocs within 5 years of their degree.</p>
+    <p class="description" style="font-size:0.95rem;color:var(--ink-soft);">For students, trainees, and postdocs within 5 years of their degree.</p>
     <div id="paypal-container-XX6D43W7NW64L"></div>
     <script>
       paypal.HostedButtons({
@@ -39,7 +39,7 @@ extra_head: |
   <div class="tier">
     <h3>Retired</h3>
     <p class="price">$125 / year</p>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">For retired members of the society.</p>
+    <p class="description" style="font-size:0.95rem;color:var(--ink-soft);">For retired members of the society.</p>
     <div id="paypal-container-TC7BSHFLGSBYY"></div>
     <script>
       paypal.HostedButtons({
@@ -51,14 +51,14 @@ extra_head: |
   <div class="tier">
     <h3>Corporate</h3>
     <p class="price">By arrangement</p>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">For companies and organizations. Please contact us directly to arrange corporate membership.</p>
+    <p class="description" style="font-size:0.95rem;color:var(--ink-soft);">For companies and organizations. Please contact us directly to arrange corporate membership.</p>
     <p><a class="btn btn-secondary" href="mailto:contact.slrch@gmail.com">Contact us</a></p>
   </div>
 
   <div class="tier">
     <h3>Other</h3>
     <p class="price">By arrangement</p>
-    <p style="font-size:0.95rem;color:var(--ink-soft);">Honorary members or other special circumstances not covered above — please get in touch.</p>
+    <p class="description" style="font-size:0.95rem;color:var(--ink-soft);">Honorary members or other special circumstances not covered above — please get in touch.</p>
     <p><a class="btn btn-secondary" href="mailto:contact.slrch@gmail.com">Contact us</a></p>
   </div>
 

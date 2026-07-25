@@ -29,7 +29,7 @@ lede: Communications from society leadership to its members.
 
 </div>
 
-## 1999 (Biological Rhythms Bulletion with SRBR)
+## 1999 (Biological Rhythms Bulletin with SRBR)
 <div class="meeting-archive">
 
 <div class="meeting-card">
