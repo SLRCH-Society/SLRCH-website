@@ -6,14 +6,21 @@ eyebrow: 37th Annual Meeting · Milan
 lede: Registration is now open! SLRCH brings together researchers and clinicians working on light, circadian rhythms, and their role in health and disease.
 ---
 
-<div class="notice">
-  <strong>Fraud alert:</strong> SLRCH is not affiliated with any travel agency. If you receive unsolicited emails from parties posing as travel agents or official SLRCH representatives, do not reply or click any links — report them to <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.
-</div>
+<p>
+  <a href="https://slrch2026.exordo.com/login" target="_blank" rel="noopener">
+    <img src="{{ '/assets/meeting-2026/SLRCH2026-RegistrationNowOpen.jpg' | relative_url }}" alt="Registration Open" class="registration-banner">
+  </a>
+</p>
 
 <p>
   <a class="btn btn-primary" href="/annual-meeting/">Meeting details &amp; abstract submission</a>
   <a class="btn btn-secondary" href="/membership/" style="margin-left: 12px;">Become a member</a>
 </p>
+
+
+<div class="notice">
+  <strong>Fraud alert:</strong> SLRCH is not affiliated with any travel agency. If you receive unsolicited emails from parties posing as travel agents or official SLRCH representatives, do not reply or click any links — report them to <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.
+</div>
 
 ## About SLRCH
 
