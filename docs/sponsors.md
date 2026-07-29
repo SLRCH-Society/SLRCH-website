@@ -19,24 +19,40 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
 
   <div class="tier">
     <h3>Silver</h3>
+
+    <a href="https://www.lumie.com/" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/sponsors/Logo-Lumie.png' | relative_url }}" alt="Lumie logo" class="sponsor-logo">
   </div>
 
   <div class="tier">
     <h3>Bronze</h3>
+
+    <a href="https://goayo.com//" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/sponsors/Logo-Ayo.png' | relative_url }}" alt="Ayo logo" class="sponsor-logo">
   </div>
 
   <div class="tier">
     <h3>Friend</h3>
     
-    <div class="sponsor-logos">
-      <img src="{{ '/assets/images/sponsors/Logo-ChronoAtWork.png' | relative_url }}" alt="Chrono@Work logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-MDPI.png' | relative_url }}" alt="Clocks & Sleep logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-Neuraxpharm.jpg' | relative_url }}" alt="Neuraxpharm logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-Neurocare.jpg' | relative_url }}" alt="Neurocare logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-Novolytix.jpg' | relative_url }}" alt="Novolytix logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-Oculox.png' | relative_url }}" alt="Oculox logo" class="sponsor-logo">
+      <div class="sponsor-logos">
+      <a href="https://www.chronoatwork.com/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-ChronoAtWork.png' | relative_url }}" alt="Chrono@Work logo" class="sponsor-logo">
+      </a>
+      <a href="https://www.mdpi.com/journal/clockssleep" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-MDPI.png' | relative_url }}" alt="Clocks & Sleep logo" class="sponsor-logo">
+      </a>
+      <a href="https://www.neuraxpharm.com/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Neuraxpharm.jpg' | relative_url }}" alt="Neuraxpharm logo" class="sponsor-logo">
+      </a>
+      <a href="https://www.neurocaregroup.com/about" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Neurocare.jpg' | relative_url }}" alt="Neurocare logo" class="sponsor-logo">
+      </a>
+      <a href="https://www.novolytix.ch/en" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Novolytix.jpg' | relative_url }}" alt="Novolytix logo" class="sponsor-logo">
+      </a>
+      <a href="https://oculox.com/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Oculox.png' | relative_url }}" alt="Oculox logo" class="sponsor-logo">
+      </a>
     </div>
 
   </div>
@@ -44,10 +60,12 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
   <div class="tier">
     <h3>Other</h3>
 
-    <div class="sponsor-logos">
-      <img src="{{ '/assets/images/sponsors/Logo-npjBTS.jpg' | relative_url }}" alt="npj Biological Timing and Sleep logo" class="sponsor-logo">
-      <img src="{{ '/assets/images/sponsors/Logo-Telelumen.png' | relative_url }}" alt="Telelumen logo" class="sponsor-logo">
-    </div>
+      <a href="https://www.nature.com/npjbts/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-npjBTS.jpg' | relative_url }}" alt="npj Biological Timing and Sleep logo" class="sponsor-logo">
+      </a>
+      <a href="https://telelumen.com/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Telelumen.png' | relative_url }}" alt="Telelumen logo" class="sponsor-logo">
+      </a>
 
   </div>
 
