@@ -21,17 +21,19 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
     <h3>Silver</h3>
     <a href="https://www.lumie.com/" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/sponsors/Logo-Lumie.png' | relative_url }}" alt="Lumie logo" class="sponsor-logo">
+    </a>
   </div>
 
   <div class="tier">
     <h3>Bronze</h3>
     <a href="https://goayo.com//" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/sponsors/Logo-Ayo.png' | relative_url }}" alt="Ayo logo" class="sponsor-logo">
+    </a>
   </div>
 
   <div class="tier">
     <h3>Friend</h3>
-          <div class="sponsor-logos">
+    <div class="sponsor-logos">
       <a href="https://condorinst.com/en/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Condor.png' | relative_url }}" alt="Condor logo" class="sponsor-logo">
       </a>
@@ -62,9 +64,8 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
       <a href="https://telelumen.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Telelumen.png' | relative_url }}" alt="Telelumen logo" class="sponsor-logo">
       </a>
+      </div>
     </div>
-
-  </div>
 
   <div class="tier">
     <h3>Other</h3>
