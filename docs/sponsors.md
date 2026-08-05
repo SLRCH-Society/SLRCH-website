@@ -46,6 +46,9 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
       <a href="https://lystechnologies.io/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Lys.png' | relative_url }}" alt="Lys logo" class="sponsor-logo">
       </a> 
+      <a href="https://melamedic.com//" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Melamedic.png' | relative_url }}" alt="Melamedic logo" class="sponsor-logo">
+      </a> 
       <a href="https://www.neuraxpharm.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Neuraxpharm.jpg' | relative_url }}" alt="Neuraxpharm logo" class="sponsor-logo">
       </a>
