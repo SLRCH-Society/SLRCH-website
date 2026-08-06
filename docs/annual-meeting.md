@@ -10,7 +10,7 @@ lede: Registration and abstract submission are open now. Submissions are managed
 
 <ul class="dates-list">
   <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
-  <li><span>Early bird registration deadline</span><span class="date">31 July 2026</span></li>
+  <li><span>Early bird registration deadline</span><span class="date">Closed</span></li>
 </ul>
 
 *Note: an earlier version of this page briefly displayed a different submission date. We apologise for any confusion caused.*
