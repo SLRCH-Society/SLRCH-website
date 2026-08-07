@@ -30,5 +30,5 @@ The Society for Light, Rhythms, and Circadian Health (formerly the Society for L
 
 <ul class="dates-list">
   <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
-  <li><span>Early bird registration deadline</span><span class="date">31 July 2026</span></li>
+  <li><span>Early bird registration deadline</span><span class="date">Closed</span></li>
 </ul>
