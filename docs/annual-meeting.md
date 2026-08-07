@@ -3,7 +3,7 @@ layout: default
 title: Annual Meeting
 description: SLRCH 37th Annual Meeting in Milan — registration and abstract submission via Ex Ordo.
 eyebrow: 37th Annual Meeting
-lede: Registration and abstract submission are open now. Submissions are managed through Ex Ordo, our conference abstract-management platform.
+lede: Registration and abstract submissions are managed through Ex Ordo, our conference management platform.
 ---
 
 ## Key dates
@@ -11,24 +11,28 @@ lede: Registration and abstract submission are open now. Submissions are managed
 <ul class="dates-list">
   <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
   <li><span>Early bird registration deadline</span><span class="date">Closed</span></li>
+  <li><span>Attendee registration deadline</span><span class="date">11th-13th September 2026</span></li>
 </ul>
 
-*Note: an earlier version of this page briefly displayed a different submission date. We apologise for any confusion caused.*
+## Registration
+
+Meeting registration is required for all presenting authors and attendees. Early bird pricing and presenter registration is now closed, but registration for attendees remains open until the conference.
+
+<p><a class="btn btn-secondary" href="https://slrch2026.exordo.com/login">Register for the meeting</a></p>
 
 ## Submit your abstract
 
+Abstract submission is now closed.
+
+<!--
 <div class="card">
   <h3>Ex Ordo abstract submission</h3>
   <p>Abstracts are submitted and reviewed through Ex Ordo, our conference management platform. You'll need to create an Ex Ordo account (or reuse one from a previous SLRCH meeting) to submit.</p>
   <p><a class="btn btn-primary" href="https://slrch2026.exordo.com/login">Submit your abstract via Ex Ordo</a></p>
   <p style="font-size:0.9rem;color:var(--ink-soft);">Having trouble with Ex Ordo? Contact <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.</p>
 </div>
+-->
 
-## Registration
-
-Meeting registration is required for all presenting authors. Early bird pricing is available through 31 July 2026.
-
-<p><a class="btn btn-secondary" href="https://slrch2026.exordo.com/login">Register for the meeting</a></p>
 
 ## Past meetings
 
