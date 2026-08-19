@@ -20,6 +20,8 @@ Meeting registration is required for all presenting authors and attendees. Early
 
 <p><a class="btn btn-secondary" href="https://slrch2026.exordo.com/login">Register for the meeting</a></p>
 
+<img src="{{ '/assets/meeting-2026/260819_Registration_Fees.jpg' | relative_url }}" alt="Registration Fees 2026">
+
 ## Submit your abstract
 
 Abstract submission is now closed.
