@@ -22,7 +22,7 @@ lede: A short sub-headline shown under the page title.
 
 Below that, write normal Markdown — headings, paragraphs, links, lists.
 A `## Heading` automatically gets the site's signature gradient bar above
-it, so you don't need to add any HTML for that.
+it, so you don't need to add any HTML for that. 
 
 ## Adding a news item
 
