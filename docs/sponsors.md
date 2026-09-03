@@ -34,23 +34,20 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
   <div class="tier">
     <h3>Friend</h3>
     <div class="sponsor-logos">
+      <a href="https://www.shop-beurer.com/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Beurer.png' | relative_url }}" alt="Beurer logo" class="sponsor-logo">
+      </a>
       <a href="https://condorinst.com/en/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Condor.png' | relative_url }}" alt="Condor logo" class="sponsor-logo">
       </a>
       <a href="https://www.chronoatwork.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-ChronoAtWork.png' | relative_url }}" alt="Chrono@Work logo" class="sponsor-logo">
       </a>
-        <a href="https://www.coelux.com//" target="_blank" rel="noopener">
-        <img src="{{ '/assets/images/sponsors/Logo-CoeLux.png' | relative_url }}" alt="CoeLux logo" class="sponsor-logo">
-      </a>
-      <a href="https://www.mdpi.com/journal/clockssleep" target="_blank" rel="noopener">
+        <a href="https://www.mdpi.com/journal/clockssleep" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-MDPI.png' | relative_url }}" alt="Clocks & Sleep logo" class="sponsor-logo">
       </a>
       <a href="https://lystechnologies.io/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Lys.png' | relative_url }}" alt="Lys logo" class="sponsor-logo">
-      </a> 
-      <a href="https://melamedic.com//" target="_blank" rel="noopener">
-        <img src="{{ '/assets/images/sponsors/Logo-Melamedic.png' | relative_url }}" alt="Melamedic logo" class="sponsor-logo">
       </a> 
       <a href="https://www.neuraxpharm.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Neuraxpharm.jpg' | relative_url }}" alt="Neuraxpharm logo" class="sponsor-logo">
@@ -78,6 +75,12 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
       <a href="https://arcascope.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Arcascope.png' | relative_url }}" alt="Arcascope logo" class="sponsor-logo">
       </a>
+      <a href="https://www.coelux.com//" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-CoeLux.png' | relative_url }}" alt="CoeLux logo" class="sponsor-logo">
+      </a>
+      <a href="https://melamedic.com//" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Melamedic.png' | relative_url }}" alt="Melamedic logo" class="sponsor-logo">
+      </a> 
       <a href="https://www.nature.com/npjbts/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-npjBTS.jpg' | relative_url }}" alt="npj Biological Timing and Sleep logo" class="sponsor-logo">
       </a>
