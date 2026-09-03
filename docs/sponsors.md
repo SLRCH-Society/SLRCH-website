@@ -26,7 +26,7 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
 
   <div class="tier">
     <h3>Bronze</h3>
-    <a href="https://goayo.com//" target="_blank" rel="noopener">
+    <a href="https://goayo.com/" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/sponsors/Logo-Ayo.png' | relative_url }}" alt="Ayo logo" class="sponsor-logo">
     </a>
   </div>
@@ -75,10 +75,13 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
       <a href="https://arcascope.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Arcascope.png' | relative_url }}" alt="Arcascope logo" class="sponsor-logo">
       </a>
-      <a href="https://www.coelux.com//" target="_blank" rel="noopener">
+      <a href="https://www.coelux.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-CoeLux.png' | relative_url }}" alt="CoeLux logo" class="sponsor-logo">
       </a>
-      <a href="https://melamedic.com//" target="_blank" rel="noopener">
+      <a href="https://www.italfarmaco.com/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Italfarmaco.png' | relative_url }}" alt="Italfarmaco logo" class="sponsor-logo">
+      </a>
+      <a href="https://melamedic.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Melamedic.png' | relative_url }}" alt="Melamedic logo" class="sponsor-logo">
       </a> 
       <a href="https://www.nature.com/npjbts/" target="_blank" rel="noopener">
