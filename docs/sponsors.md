@@ -40,6 +40,9 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
       <a href="https://www.chronoatwork.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-ChronoAtWork.png' | relative_url }}" alt="Chrono@Work logo" class="sponsor-logo">
       </a>
+        <a href="https://www.coelux.com//" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-CoeLux.png' | relative_url }}" alt="CoeLux logo" class="sponsor-logo">
+      </a>
       <a href="https://www.mdpi.com/journal/clockssleep" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-MDPI.png' | relative_url }}" alt="Clocks & Sleep logo" class="sponsor-logo">
       </a>

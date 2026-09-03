@@ -16,5 +16,5 @@ lede: Instructions for preparing your poster.
 <div class="card">
   <h3>Posters</h3>
   <p>This year we have 5 poster sessions! See the list of poster presenters and titles to be presented using the link below.</p>
-  <p><a class="btn btn-primary" href="/assets/meeting-2026/260831_SLRCH2026_Posters.pdf">View the 2026 Poster List (PDF)</a></p>
+  <p><a class="btn btn-primary" href="/assets/meeting-2026/260903_SLRCH2026_Posters.pdf">View the 2026 Poster List (PDF)</a></p>
 </div>
