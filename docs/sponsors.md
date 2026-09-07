@@ -29,6 +29,9 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
     <a href="https://goayo.com/" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/sponsors/Logo-Ayo.png' | relative_url }}" alt="Ayo logo" class="sponsor-logo">
     </a>
+    <a href="https://lystechnologies.io/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/images/sponsors/Logo-Lys.png' | relative_url }}" alt="Lys logo" class="sponsor-logo">
+    </a> 
   </div>
 
   <div class="tier">
@@ -46,9 +49,6 @@ lede: Sponsorship helps SLRCH continue its research, education, and annual meeti
         <a href="https://www.mdpi.com/journal/clockssleep" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-MDPI.png' | relative_url }}" alt="Clocks & Sleep logo" class="sponsor-logo">
       </a>
-      <a href="https://lystechnologies.io/" target="_blank" rel="noopener">
-        <img src="{{ '/assets/images/sponsors/Logo-Lys.png' | relative_url }}" alt="Lys logo" class="sponsor-logo">
-      </a> 
       <a href="https://www.neuraxpharm.com/" target="_blank" rel="noopener">
         <img src="{{ '/assets/images/sponsors/Logo-Neuraxpharm.jpg' | relative_url }}" alt="Neuraxpharm logo" class="sponsor-logo">
       </a>
