@@ -11,17 +11,18 @@ lede: Registration and abstract submissions are managed through Ex Ordo, our con
 <ul class="dates-list">
   <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
   <li><span>Early bird registration deadline</span><span class="date">Closed</span></li>
-  <li><span>Attendee registration deadline</span><span class="date">11th-13th September 2026</span></li>
+  <li><span>Attendee registration deadline</span><span class="date">Closed</span></li>
 </ul>
 
 ## Registration
 
-Meeting registration is required for all presenting authors and attendees. Early bird pricing and presenter registration is now closed, but registration for attendees remains open until the conference.
+Meeting registration is required for all presenting authors and attendees. Registration is now closed due to reaching capacity.
 
+<!--
 <p><a class="btn btn-secondary" href="https://slrch2026.exordo.com/login">Register for the meeting</a></p>
 
 <img src="{{ '/assets/meeting-2026/260819_Registration_Fees.jpg' | relative_url }}" alt="Registration Fees 2026">
-
+-->
 ## Submit your abstract
 
 Abstract submission is now closed.
