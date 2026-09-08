@@ -8,6 +8,8 @@
       url: /board/
     - title: Past Presidents
       url: /past-presidents/
+    - title: Code of Conduct
+      url: /code-of-conduct/
 - title: Annual Meeting
   children:
     - title: Meeting Overview
@@ -22,8 +24,7 @@
       url: /annual-meeting/accommodation/
     - title: Sponsor Package
       url: /annual-meeting/sponsor-package/
-    - title: Code of Conduct
-      url: /annual-meeting/code-of-conduct/
+    
 - title: Membership
   url: /membership/
 - title: Curriculum
