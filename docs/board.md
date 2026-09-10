@@ -38,7 +38,7 @@ lede: The volunteers who guide the society's direction, research priorities, and
 
 <div class="card"><img class="card-photo" src="/assets/images/board/John.JPG" alt="Dr. John Hanifin">
   <h3>John Hanifin, Treasurer</h3>
-  <p>Dr. John Hanifin is an Associate Director of the Thomas Jefferson University Light Research Program. In addition to serving as Project Manager for NIH and NASA sponsored research studies, he has recently been awarded a Department of Energy grant examining how solid-state lighting can impact human physiology. Using the techniques of radioimmunoassay, performance testing and photobiology, Dr. Hanifin has successfully completed empirical studies on polychromatic light mixtures of blue light for circadian, neuroendocrine and neurobehavioral effects in humans.</p>
+  <p>Dr. John Hanifin is the Director of the Thomas Jefferson University Light Research Program. In addition to serving as Project Manager for NIH and NASA sponsored research studies, he has recently been awarded a Department of Energy grant examining how solid-state lighting can impact human physiology. Using the techniques of radioimmunoassay, performance testing and photobiology, Dr. Hanifin has successfully completed empirical studies on polychromatic light mixtures of blue light for circadian, neuroendocrine and neurobehavioral effects in humans.</p>
 </div>
 
 <div class="card"><img class="card-photo" src="/assets/images/board/Louise.jpg" alt="Dr. Louise Ince">
