@@ -10,6 +10,15 @@ lede: Recognizing the leadership and service of the Society's past presidents.
 We gratefully acknowledge the individuals who have served as President and helped shape the Society through their leadership and dedication.
 
 <div class="president-gallery">
+
+  <figure>
+    <img src="{{ '/assets/images/past-presidents/PP-2024-2026.jpg' | relative_url }}" alt="Corrado Garbazza">
+    <figcaption>
+    <strong>Corrado Garbazza, MD PhD</strong><br>
+    <small>2024-2026</small>
+    </figcaption>
+  </figure>
+  
   <figure>
     <img src="{{ '/assets/images/past-presidents/PP-2022-2024.jpg' | relative_url }}" alt="Christian Cajochen">
     <figcaption>
