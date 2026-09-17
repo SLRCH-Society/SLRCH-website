@@ -10,6 +10,9 @@ lede: SLRCH has hosted an annual meeting for over 30 years, held across Europe, 
 To see how the field has evolved over three decades, browse the archives of past meeting programs and abstract booklets below.
 
 <div class="meeting-archive">
+<div class="meeting-card">
+  <a href="{{ '/assets/pdf/past-programs/Program-2026.pdf' | relative_url }}">2026: Milan</a>
+</div>
 
 <div class="meeting-card">
   <a href="{{ '/assets/pdf/past-programs/Program-2025.pdf' | relative_url }}">2025: Boston</a>

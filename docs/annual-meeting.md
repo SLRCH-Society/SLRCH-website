@@ -1,12 +1,16 @@
 ---
 layout: default
 title: Annual Meeting
-description: SLRCH 37th Annual Meeting in Milan — registration and abstract submission via Ex Ordo.
-eyebrow: 37th Annual Meeting
+description: SLRCH 38th Annual Meeting in Aarhus — registration and abstract submission via Ex Ordo.
+eyebrow: 38th Annual Meeting
 lede: Registration and abstract submissions are managed through Ex Ordo, our conference management platform.
 ---
 
-## Key dates
+The next meeting will be held 15th-17th June in Aarhus, Denmark. We look forward to seeing you there!
+
+  <img src="{{ '/assets/meeting-2027/260917_SLRCH27_SaveTheDate.jpeg' | relative_url }}" alt="Aarhus, Demark - Save the Date!">
+
+<!-- ## Key dates
 
 <ul class="dates-list">
   <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
@@ -23,9 +27,9 @@ Meeting registration is required for all presenting authors and attendees. Regis
 
 <img src="{{ '/assets/meeting-2026/260819_Registration_Fees.jpg' | relative_url }}" alt="Registration Fees 2026">
 -->
-## Submit your abstract
+<!-- ## Submit your abstract
 
-Abstract submission is now closed.
+Abstract submission is now closed. -->
 
 <!--
 <div class="card">
@@ -34,7 +38,7 @@ Abstract submission is now closed.
   <p><a class="btn btn-primary" href="https://slrch2026.exordo.com/login">Submit your abstract via Ex Ordo</a></p>
   <p style="font-size:0.9rem;color:var(--ink-soft);">Having trouble with Ex Ordo? Contact <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.</p>
 </div>
--->
+--> -->
 
 
 ## Past meetings

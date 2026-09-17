@@ -7,7 +7,9 @@ eyebrow: Annual Meeting
 lede: Recommended hotels and booking information for attendees.
 ---
 
-Accommodation is not included in the congress fee. The University of Milan (La Statale) is centrally located near the Duomo, where hotel prices tend to be higher.
+Accommodation is not included in the congress fee. Stay tuned for more information about accommodation options for the 2027 meeting in Aarhus, Denmark.
+
+<!-- The University of Milan (La Statale) is centrally located near the Duomo, where hotel prices tend to be higher.
 
 **Recommended conference hotel**
 
@@ -35,3 +37,4 @@ Milano Centrale: ~10 min by taxi / ~15-20 min by public transport (3 km)
 
 **Bed and Breakfast options:**
 [https://www.bed-and-breakfast.it/en/near/universita-statale-degli-studi-milano](https://www.bed-and-breakfast.it/en/near/universita-statale-degli-studi-milano)
+ -->
