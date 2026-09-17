@@ -9,14 +9,14 @@ lede: The volunteers who guide the society's direction, research priorities, and
 
 ## Leadership
 
-<div class="card"><img class="card-photo" src="/assets/images/board/Corrado.jpg" alt="Dr. Corrado Garbazza">
-  <h3>Corrado Garbazza, President</h3>
-  <p>Dr. Corrado Garbazza is a psychiatrist specialized in sleep and circadian medicine and research, working at the Centre for Chronobiology of the University of Basel, Switzerland. After medical studies in Italy and Germany, he obtained a doctorate from the Competence Center of Sleep Medicine of the Charité Medical University, Berlin. After moving to Switzerland, he entered a PhD program at the University of Basel, Centre for Chronobiology, under the supervision of Prof. Christian Cajochen. Since 2012, Dr Garbazza has specialized on the management of circadian rhythm sleep-wake disorders and the chronotherapy of affective disorders, with a focus on the bright light treatment of perinatal depression. </p>
+<div class="card"><img class="card-photo" src="/assets/images/board/Renske.jpeg" alt="Dr. Renske Lok">
+  <h3>Renske Lok, President</h3>
+  <p>Dr. Renske Lok is an Assistant Professor of Integrative Physiology at the University of Colorado Boulder. She studied Medical Biology and obtained her PhD from the University of Groningen, Department of Chronobiology, in which she investigated effects of light on human alertness. This was followed by a postdoctoral fellowship at Stanford University, where her research interests included the effects of light on psychological and physical performance, thermoregulation and sleep. Her lab focuses on designing personalized, scalable interventions grounded in sleep and circadian science to enhance daily performance, reduce disease risk, and promote healthy aging.</p>
 </div>
 
-<div class="card"><img class="card-photo" src="/assets/images/board/Renske.jpeg" alt="Dr. Renske Lok">
-  <h3>Renske Lok, Vice President</h3>
-  <p>Dr. Renske Lok is an Assistant Professor of Integrative Physiology at the University of Colorado Boulder. She studied Medical Biology and obtained her PhD from the University of Groningen, Department of Chronobiology, in which she investigated effects of light on human alertness. This was followed by a postdoctoral fellowship at Stanford University, where her research interests included the effects of light on psychological and physical performance, thermoregulation and sleep. Her lab focuses on designing personalized, scalable interventions grounded in sleep and circadian science to enhance daily performance, reduce disease risk, and promote healthy aging.</p>
+<div class="card"><img class="card-photo" src="/assets/images/board/Louise.jpg" alt="Dr. Louise Ince">
+  <h3>Louise Ince, Vice President</h3>
+  <p>Dr. Louise Ince is an Assistant Professor of Neuroscience at Pomona College. She completed her PhD in Neuroscience at the University of Manchester, where she studied the influence of circadian rhythms in glucocorticoid signaling on inflammatory responses in the lung. Her postdoctoral work took her to Munich, Geneva, and Austin, where she continued to investigate circadian immunology. Her lab focuses on circadian rhythms in the blood-brain barrier and blood-CSF barrier, behavioral consequences of immune activation, and how circadian interventions such as time-restricted feeding can improve immune function in aging.</p>
 </div>
 
 ## Board Members
@@ -36,14 +36,14 @@ lede: The volunteers who guide the society's direction, research priorities, and
   <p>Dr. Rebecca Cox is a clinical psychologist and the director of the Sleep, Circadian Rhythms, and Psychopathology Laboratory at Washington University in St. Louis. She completed her PhD in clinical psychology at Vanderbilt University and a postdoctoral fellowship in sleep and circadian rhythms at the University of Colorado Boulder. Her research examines the role of sleep and circadian rhythm disruption in anxiety-related disorders and the potential of sleep and circadian medicine (e.g., light therapy) as novel treatment approaches.</p>
 </div>
 
+<div class="card"><img class="card-photo" src="/assets/images/board/Corrado.jpg" alt="Dr. Corrado Garbazza">
+  <h3>Corrado Garbazza, Past President</h3>
+  <p>Dr. Corrado Garbazza is a psychiatrist specialized in sleep and circadian medicine and research, working at the Centre for Chronobiology of the University of Basel, Switzerland. After medical studies in Italy and Germany, he obtained a doctorate from the Competence Center of Sleep Medicine of the Charité Medical University, Berlin. After moving to Switzerland, he entered a PhD program at the University of Basel, Centre for Chronobiology, under the supervision of Prof. Christian Cajochen. Since 2012, Dr Garbazza has specialized on the management of circadian rhythm sleep-wake disorders and the chronotherapy of affective disorders, with a focus on the bright light treatment of perinatal depression. </p>
+</div>
+
 <div class="card"><img class="card-photo" src="/assets/images/board/John.JPG" alt="Dr. John Hanifin">
   <h3>John Hanifin, Treasurer</h3>
   <p>Dr. John Hanifin is the Director of the Thomas Jefferson University Light Research Program. In addition to serving as Project Manager for NIH and NASA sponsored research studies, he has recently been awarded a Department of Energy grant examining how solid-state lighting can impact human physiology. Using the techniques of radioimmunoassay, performance testing and photobiology, Dr. Hanifin has successfully completed empirical studies on polychromatic light mixtures of blue light for circadian, neuroendocrine and neurobehavioral effects in humans.</p>
-</div>
-
-<div class="card"><img class="card-photo" src="/assets/images/board/Louise.jpg" alt="Dr. Louise Ince">
-  <h3>Louise Ince</h3>
-  <p>Dr. Louise Ince is an Assistant Professor of Neuroscience at Pomona College. She completed her PhD in Neuroscience at the University of Manchester, where she studied the influence of circadian rhythms in glucocorticoid signaling on inflammatory responses in the lung. Her postdoctoral work took her to Munich, Geneva, and Austin, where she continued to investigate circadian immunology. Her lab focuses on circadian rhythms in the blood-brain barrier and blood-CSF barrier, behavioral consequences of immune activation, and how circadian interventions such as time-restricted feeding can improve immune function in aging.</p>
 </div>
 
 <div class="card"><img class="card-photo" src="/assets/images/board/Manuel.jpg" alt="Dr. Manuel Spitschan">
@@ -56,10 +56,10 @@ lede: The volunteers who guide the society's direction, research priorities, and
   <p>Dr. Delainey Wescott completed her PhD in Clinical and Biological/Health Psychology with a minor in Quantitative Methods at the University of Pittsburgh and her clinical internship at Western Psychiatric Hospital. Delainey is currently a post-doctoral scholar on the Translational Research Training in Sleep and Circadian Science T32 in the Department of Psychiatry at the University of Pittsburgh School of Medicine. Delainey’s research focuses on disrupted sleep and circadian rhythms as mechanisms and treatment targets in mood disorders and suicide risk with a focus on adolescence and young adulthood.</p>
 </div>
 
-<div class="card"><img class="card-photo" src="/assets/images/board/Lisa.jpg" alt="Dr. Lisa Wu">
+<!-- <div class="card"><img class="card-photo" src="/assets/images/board/Lisa.jpg" alt="Dr. Lisa Wu">
   <h3>Lisa Wu</h3>
   <p>Dr. Lisa Wu is Associate Professor in the Department of Psychology at Reykjavik University and in the Department of Psychology and Behavioural Sciences at Aarhus University. She is also a co-founder of the Sleep and Circadian Psychology Research Group at Aarhus University and Scientific Coordinator for Reykjavik University's participation in the European University Alliance NeurotechEU (the European University of Brain and Technology). Trained as a clinical psychologist and neuropsychologist, her research has focused on studying the side- and late effects of cancer and its treatment, and intervention development. This work led her to research circadian rhythms in cancer patients in order to better understand how disruptions in circadian rhythms might potentially drive late effects, and also to investigate the therapeutic properties of light therapy on side- and late-effects of cancer and its treatment.</p>
-</div>
+</div> -->
 
 ## Early Career Investigator Committee
 
