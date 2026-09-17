@@ -2,11 +2,11 @@
 layout: default
 title: Home
 description: The Society for Light, Rhythms, and Circadian Health (SLRCH) — annual meeting, membership, and research on light and circadian biology.
-eyebrow: 37th Annual Meeting · Milan
+eyebrow: 38th Annual Meeting · Aarhus
 lede: SLRCH brings together researchers and clinicians working on light, circadian rhythms, and their role in health and disease.
 ---
 
-Registration is now closed due to reaching our conference capacity. We look forward to welcoming you all in Milan!
+<!-- Registration is now closed due to reaching our conference capacity. We look forward to welcoming you all in Milan!
 
 <p>
   <a href="" target="_blank" rel="noopener">
@@ -22,16 +22,23 @@ Registration is now closed due to reaching our conference capacity. We look forw
 
 <div class="notice">
   <strong>Fraud alert:</strong> SLRCH is not affiliated with any travel agency. If you receive unsolicited emails from parties posing as travel agents or official SLRCH representatives, do not reply or click any links — report them to <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.
-</div>
+</div> -->
 
 ## About SLRCH
 
 The Society for Light, Rhythms, and Circadian Health (formerly the Society for Light Treatment and Biological Rhythms) is a scientific society for researchers and clinicians studying light exposure, circadian rhythms, and their effects on human health. The society has hosted an annual meeting for over 30 years, held across Europe, Canada, and the United States.
 
-## Key dates
+## Next Meeting
+
+The next meeting will be held 15th-17th June in Aarhus, Denmark. We look forward to seeing you there!
+
+  <img src="{{ '/assets/meeting-2027/260917_SLRCH27_SaveTheDate.jpeg' | relative_url }}" alt="Aarhus, Demark - Save the Date!">
+
+<!-- ## Key dates
 
 <ul class="dates-list">
   <li><span>Abstract submission deadline</span><span class="date">Closed</span></li>
   <li><span>Early bird registration deadline</span><span class="date">Closed</span></li>
   <li><span>Attendee registration deadline</span><span class="date">Closed</span></li>
 </ul>
+ -->
