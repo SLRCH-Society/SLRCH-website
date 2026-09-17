@@ -7,6 +7,7 @@ eyebrow: Recognition
 lede: Previous winners of the J. Christian Gillin Early Career Investigator award.
 ---
 
+2026: Maydel Fernandez-Alonso, Tubingen, Germany\
 2025: Pablo Bonilla, Columbia SC, USA\
 2024: Fatemeh Fazlali, Basel, Switzerland\
 2023: Anthony Hand, Armadale, Victoria, Australia\
