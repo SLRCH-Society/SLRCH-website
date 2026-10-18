@@ -22,8 +22,8 @@
     #   url: /annual-meeting/posters/
     # - title: Accommodation
     #   url: /annual-meeting/accommodation/
-    # - title: Sponsor Package
-    #   url: /annual-meeting/sponsor-package/ 
+    - title: Sponsorship & Exhibition
+      url: /annual-meeting/sponsor-package/
 - title: Membership
   url: /membership/
 - title: Curriculum

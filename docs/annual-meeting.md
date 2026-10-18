@@ -10,6 +10,12 @@ The next meeting will be held 15th-17th June in Aarhus, Denmark. We look forward
 
   <img src="{{ '/assets/meeting-2027/260917_SLRCH27_SaveTheDate.jpeg' | relative_url }}" alt="Aarhus, Demark - Save the Date!">
 
+## Sponsorship & Exhibition
+
+Sponsorship and exhibition opportunities are available for the SLRCH 2027 Annual Meeting. Explore the packages, pricing, and practical information in our sponsorship prospectus.
+
+<p><a class="btn btn-primary" href="{{ '/annual-meeting/sponsor-package/' | relative_url }}">Explore 2027 sponsorship opportunities</a></p>
+
 <!-- ## Key dates
 
 <ul class="dates-list">

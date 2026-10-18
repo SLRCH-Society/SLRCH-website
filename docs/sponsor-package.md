@@ -1,14 +1,15 @@
 ---
 layout: default
 permalink: /annual-meeting/sponsor-package/
-title: Sponsor Package
-description: Sponsorship packages for the SLRCH annual meeting.
-eyebrow: Annual Meeting
-lede: How to sponsor this year's meeting, and what each package includes.
+title: Sponsorship & Exhibition
+description: Sponsorship and exhibition opportunities for the SLRCH 2027 Annual Meeting in Aarhus, Denmark.
+eyebrow: 38th Annual Meeting · 2027
+lede: Support the SLRCH 2027 Annual Meeting at Aarhus University, 15–17 June 2027.
 ---
 
 <div class="card">
-  <h3>Sponsorship Opportunities & Pricing</h3>
-  <p>Explore the available sponsorship packages and pricing for the SLRCH Annual Meeting. A range of opportunities are available to help your organization engage with attendees and demonstrate its support for the society.</p>
-  <p><a class="btn btn-primary" href="/assets/pdf/SLRCH-Sponsor-Package.pdf">View Sponsorship Packages & Pricing (PDF)</a></p>
+  <h3>Sponsorship &amp; Exhibition Prospectus</h3>
+  <p>Explore sponsorship packages, exhibition opportunities, pricing, and practical information for the SLRCH 2027 Annual Meeting in Aarhus, Denmark.</p>
+  <p><a class="btn btn-primary" href="{{ '/assets/meeting-2027/SLRCH-2027-Sponsorship-Prospectus.pdf' | relative_url }}">Download the 2027 Sponsorship Prospectus (PDF)</a></p>
+  <p>To discuss sponsorship or confirm your package, email <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.</p>
 </div>
