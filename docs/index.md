@@ -32,7 +32,9 @@ The Society for Light, Rhythms, and Circadian Health (formerly the Society for L
 
 The next meeting will be held 15th-17th June in Aarhus, Denmark. We look forward to seeing you there!
 
-  <img src="{{ '/assets/meeting-2027/260917_SLRCH27_SaveTheDate.jpeg' | relative_url }}" alt="Aarhus, Demark - Save the Date!">
+<a href="{{ '/annual-meeting/' | relative_url }}">
+  <img src="{{ '/assets/meeting-2027/260917_SLRCH27_SaveTheDate.jpeg' | relative_url }}" alt="SLRCH 2027 Annual Meeting in Aarhus, Denmark — view meeting details">
+</a>
 
 <!-- ## Key dates
 
