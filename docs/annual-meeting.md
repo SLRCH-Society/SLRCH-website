@@ -44,7 +44,7 @@ Abstract submission is now closed. -->
   <p><a class="btn btn-primary" href="https://slrch2026.exordo.com/login">Submit your abstract via Ex Ordo</a></p>
   <p style="font-size:0.9rem;color:var(--ink-soft);">Having trouble with Ex Ordo? Contact <a href="mailto:contact.slrch@gmail.com">contact.slrch@gmail.com</a>.</p>
 </div>
---> -->
+--> 
 
 
 ## Past meetings
